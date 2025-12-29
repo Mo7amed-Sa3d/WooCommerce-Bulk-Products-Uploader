@@ -1,0 +1,137 @@
+2025-12-24 20:16:20,931 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 20:16:44,469 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:08:59,379 - bulk_processor - INFO - Scanned 2 products, 0 errors
+2025-12-24 21:09:12,349 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:09:12,610 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:09:43,270 - api_client - ERROR - Media upload exception: ('Connection aborted.', TimeoutError('The write operation timed out'))
+2025-12-24 21:09:43,413 - api_client - ERROR - Media upload exception: ('Connection aborted.', TimeoutError('The write operation timed out'))
+2025-12-24 21:10:43,331 - bulk_processor - INFO - Scanned 2 products, 0 errors
+2025-12-24 21:10:52,096 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:11:00,918 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:11:22,651 - api_client - ERROR - Media upload exception: ('Connection aborted.', TimeoutError('The write operation timed out'))
+2025-12-24 21:11:31,490 - api_client - ERROR - Media upload exception: ('Connection aborted.', TimeoutError('The write operation timed out'))
+2025-12-24 21:13:42,698 - bulk_processor - INFO - Scanned 2 products, 0 errors
+2025-12-24 21:14:11,680 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:14:11,912 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:14:14,028 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:14:43,809 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:23:13,750 - bulk_processor - INFO - Scanned 2 products, 0 errors
+2025-12-24 21:23:19,763 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:23:20,498 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:23:23,002 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:23:31,508 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:25:35,170 - bulk_processor - INFO - Scanned 32 products, 0 errors
+2025-12-24 21:25:59,810 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:26:02,592 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:26:08,887 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:26:12,950 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:26:15,964 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:26:18,251 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:26:19,710 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:26:21,974 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:26:22,723 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:26:25,004 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:26:25,102 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:26:34,374 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:26:42,665 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:26:44,961 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:26:47,213 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:26:53,306 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:26:54,905 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:26:57,246 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:27:00,654 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:27:01,135 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:27:03,070 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:27:04,549 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:27:06,854 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:27:08,223 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:27:09,695 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:27:11,723 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:27:14,028 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:27:22,893 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:27:25,190 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:27:28,103 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:27:34,035 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:27:36,820 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:27:38,318 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:27:41,180 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:27:50,845 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:27:55,986 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:27:56,100 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:28:00,748 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:28:03,983 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:28:06,436 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:28:09,734 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:28:17,679 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:28:20,720 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:28:22,589 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:28:22,963 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:28:25,705 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:28:28,006 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:28:30,089 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:28:41,118 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:28:46,495 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:28:47,336 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:28:48,731 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:28:50,340 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:28:50,360 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:28:52,562 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:28:56,152 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:29:07,616 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:29:10,379 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:29:12,598 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:29:14,762 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:29:15,477 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:29:17,365 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:29:18,504 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:29:19,573 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:36:40,175 - bulk_processor - INFO - Scanned 2 products, 0 errors
+2025-12-24 21:37:02,685 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:37:03,883 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:37:05,174 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:37:20,046 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:41:54,419 - bulk_processor - INFO - Scanned 2 products, 0 errors
+2025-12-24 21:42:13,196 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:42:22,312 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:42:34,177 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:42:44,815 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:44:46,923 - bulk_processor - INFO - Scanned 2 products, 0 errors
+2025-12-24 21:44:57,171 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:44:57,317 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:44:59,924 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:45:00,712 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:46:23,223 - bulk_processor - INFO - Scanned 2 products, 0 errors
+2025-12-24 21:46:30,379 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-24 21:46:30,842 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:46:34,230 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-24 21:46:38,415 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-24 21:47:40,732 - bulk_processor - INFO - Scanned 2 products, 0 errors
+2025-12-24 21:47:59,059 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-24 21:48:02,484 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-24 21:48:03,700 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-24 21:48:25,425 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-25 04:03:51,822 - bulk_processor - INFO - Scanned 5 products, 0 errors
+2025-12-25 04:22:28,216 - excel_processor - INFO - Reading Excel file: C:/Users/moham/Desktop/Book1.xlsx
+2025-12-25 04:22:28,569 - excel_processor - INFO - Found 2 rows in Excel file
+2025-12-25 04:22:28,580 - excel_processor - INFO - Successfully processed 2 products from Excel
+2025-12-25 04:22:45,781 - upload_queue - INFO - Worker-3: Uploaded image 1/2
+2025-12-25 04:22:45,789 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-25 04:23:06,850 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-25 04:23:08,614 - upload_queue - INFO - Worker-3: Uploaded image 2/2
+2025-12-25 04:32:24,894 - excel_processor - INFO - Reading Excel file: C:/Users/moham/Desktop/Book1.xlsx
+2025-12-25 04:32:24,913 - excel_processor - INFO - Found 2 rows in Excel file
+2025-12-25 04:32:24,919 - excel_processor - INFO - Successfully processed 2 products from Excel
+2025-12-25 04:33:36,006 - excel_processor - INFO - Reading Excel file: C:/Users/moham/Desktop/ProductsUploadSample.xlsx
+2025-12-25 04:33:36,267 - excel_processor - INFO - Found 2 rows in Excel file
+2025-12-25 04:33:36,270 - excel_processor - INFO - Successfully processed 2 products from Excel
+2025-12-25 04:33:44,487 - excel_processor - INFO - Template created: C:/Users/moham/Desktop/product_template.xlsx
+2025-12-25 04:36:58,088 - excel_processor - INFO - Reading Excel file: C:/Users/moham/Desktop/ProductsUploadSample.xlsx
+2025-12-25 04:36:58,093 - excel_processor - INFO - Found 2 rows in Excel file
+2025-12-25 04:36:58,096 - excel_processor - INFO - Successfully processed 2 products from Excel
+2025-12-25 04:37:35,025 - upload_queue - INFO - Worker-1: Uploaded image 1/2
+2025-12-25 04:37:37,556 - upload_queue - INFO - Worker-1: Uploaded image 2/2
+2025-12-25 04:37:43,656 - upload_queue - INFO - Worker-2: Uploaded image 1/2
+2025-12-25 04:37:59,835 - upload_queue - INFO - Worker-2: Uploaded image 2/2
+2025-12-29 03:06:14,494 - excel_processor - INFO - Reading Excel file: C:/Users/moham/Desktop/ProductsUploadSample.xlsx
+2025-12-29 03:06:15,002 - excel_processor - INFO - Found 2 rows in Excel file
+2025-12-29 03:06:15,394 - excel_processor - INFO - Successfully processed 2 products from Excel

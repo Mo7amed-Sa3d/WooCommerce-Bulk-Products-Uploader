@@ -1,0 +1,5 @@
+build/
+dist/
+old/
+last_working/
+.env
