@@ -4,7 +4,7 @@
 - This app is used to upload/bulk upload products to WooCommerce based wordpress apps
 
 ### Setup and Run
-- First you should put your WooCommerce API Key & Wordpress app password in the .env file
+- First you should create a file called <mark>.env</mark> , then put your WooCommerce API Key & Wordpress app password in the .env file
 
 ```python
 # Store URL (no trailing slash)
