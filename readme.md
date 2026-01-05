@@ -28,3 +28,15 @@ DEFAULT_CATEGORY=15
 ```python
 python main.py
 ```
+
+## The app should look like this:
+![alt text](/BulkUploader.png)
+
+## How to use:
+- Click the <mark>Create Template</mark> button and save the excel file template.
+- Fill the excel file with your products
+- In the images_path coloumn with the path of the product images in your PC.
+- Save the excel file 
+- Select the excel file using <mark>Browse Excel</mark> button 
+- Click <mark>Load & validate Excel</mark> button, the products should apperar in the white area.
+- Click <mark>Upload All to queue</mark> button and the upload should start.

@@ -135,3 +135,6 @@
 2025-12-29 03:06:14,494 - excel_processor - INFO - Reading Excel file: C:/Users/moham/Desktop/ProductsUploadSample.xlsx
 2025-12-29 03:06:15,002 - excel_processor - INFO - Found 2 rows in Excel file
 2025-12-29 03:06:15,394 - excel_processor - INFO - Successfully processed 2 products from Excel
+2025-12-31 23:38:37,785 - excel_processor - INFO - Reading Excel file: C:/Users/moham/Desktop/ProductsUploadSample.xlsx
+2025-12-31 23:38:38,649 - excel_processor - INFO - Found 2 rows in Excel file
+2025-12-31 23:38:38,807 - excel_processor - INFO - Successfully processed 2 products from Excel
